@@ -8,8 +8,6 @@ Themen: Einführung in
 - Datenexploration (Pandas, Matplotlib, Seaborn)
 - Datenanalyse (Machine Learning mit SciKit-Learn)
 
-Stand zum Seminar 8./9.10.2020: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mesa-ai/smi-datenanalyse-ba/seminar_2020_10)
-
-Stand zum Seminar 15./16.10.2020: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mesa-ai/smi-datenanalyse-ba/seminar_2020_10_15)
+Binder-Link zum aktuellen Stand: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mesa-ai/smi-datenanalyse-ba)
 
 Eine kommerzielle Verwendung ohne Genehmigung des Autors ist untersagt.
