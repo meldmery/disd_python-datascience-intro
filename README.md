@@ -1,6 +1,6 @@
 <img style="float:left;" src="images/smi-logo.png"/> <h1>Datenanalyse und -management </h1>
 
-Dieses Repository enthält die aktuellen Jupyter-Notebooks zum Seminar.
+Dieses Repository enthält Jupyter-Notebooks zum Seminar.
 
 Themen: Einführung in 
 - Python
