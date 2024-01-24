@@ -4,9 +4,8 @@ This repository contains Jupyter notebooks for seminars and e-learning courses o
 
 Topics:
 - Introduction to Python
-- Data management (SQL, APIs) - in some branches
+- Retrieving data from APIs with package 'request' and pandas
 - Data exploration (Pandas, Matplotlib)
-- Data analysis (Machine Learning/SciKit-Learn) - in some branches
 
 Run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steinbeis-next/disd_python-datascience-intro/main)
 
