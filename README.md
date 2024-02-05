@@ -1,6 +1,7 @@
 <img style="float:left;" src="images/snext-logo.png"/> <h1>Introduction to Python for Data Science</h1>
 
 This repository contains Jupyter notebooks for learning modules of Steinbeis Schools for Next Practices.
+For instructions how to setup your working environment, open the file "SetupEnvironment.ipynb" above.
 
 Topics:
 - Introduction to Python
